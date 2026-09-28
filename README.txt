@@ -2,7 +2,7 @@ Triple T PWA Wrapper
 ====================
 
 Web App ที่ฝังอยู่:
-https://script.google.com/macros/s/AKfycbxzxMpRPzCP8cEp4uXRQnczy9dWnN8D7UQ3aqrj40SET1xC-5isI5vwmLV15usBWuCP/exec
+https://script.google.com/macros/s/AKfycbxdB2JeHG3YNccLruh5FFkQM-sWLez2XvFBly5IYNgTLr5gJhDMWcAmDAnuFsbjLAOO/exec
 
 ไฟล์:
 - index.html
